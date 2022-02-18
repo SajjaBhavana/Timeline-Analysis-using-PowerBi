@@ -1,5 +1,6 @@
 # Timeline-Analysis-using-PowerBi
 I have used Python and Power BI in order to create a CoronaVirus Report with summary statistics, trends and forecasts.
+Data is cleaned and preproccessed in jupyter-python, and the analysis is performed in PowerBI
 
 This repository contains:
 
